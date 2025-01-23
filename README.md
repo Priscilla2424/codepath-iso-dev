@@ -17,6 +17,15 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
+<div>
+    <a href="https://www.loom.com/share/272f4eaee96243e0a11f32c716a0f4eb">
+      <p>Simulator - iPhone 16 Pro - 23 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/272f4eaee96243e0a11f32c716a0f4eb">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/272f4eaee96243e0a11f32c716a0f4eb-e8335952de6d9c38-full-play.gif">
+    </a>
+  </div>
+  
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
